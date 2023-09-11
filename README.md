@@ -19,12 +19,12 @@ Explore the project's codebase, datasets, and Jupyter notebooks to gain insights
 ## Dependencies
 
 - Python
-- google colab
+- google collab
 - pandas
 - NumPy
-- scikit-learn
+- sci-kit-learn
 - matplotlib
-- seaborn
+
 
 ## Contributing
 
