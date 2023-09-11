@@ -19,7 +19,7 @@ Explore the project's codebase, datasets, and Jupyter notebooks to gain insights
 ## Dependencies
 
 - Python
-- Jupyter Notebook
+- google colab
 - pandas
 - NumPy
 - scikit-learn
